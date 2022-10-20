@@ -1,0 +1,21 @@
+PreTest
+
+1. Tuliskan Pemahaman anda tentang masing-masing dari bagian struktur dasar pemrograman java!
+
+jawab: 
+public class {
+    public static void main(String[] args){
+
+}
+
+2. Buat contoh Sesuai dengan bahasa pemrograman Java
+
+Jawab:
+public class BP1_M1_P1_NAFIS {
+    public static void main(String[] args){
+        System.out.println("Bahasa Pemrograman");
+        System.out.println("Sistem Informasi");
+        System.out.println("Fakultas Ilmu Komputer");
+        System.out.println("Universitas Kuningan");
+    }
+}
